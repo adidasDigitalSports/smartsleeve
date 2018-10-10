@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hackathon</string>
+    <string name="state_calibrated1">"Status: CALIBRATED 1/2"</string>
+    <string name="state_calibrated2">"Status: CALIBRATED 2/2"</string>
+    <string name="state_connecting">"Status: CONNECTING"</string>
+    <string name="state_connected">"Status: CONNECTED"</string>
+    <string name="state_disconnected">"Status: DISCONNECTED"</string>
+    <string name="state_receiving">"Status: RECEIVING"</string>
+    <string name="state_none">"Status: NONE"</string>
+    <string name="state_listen">"Status: LISTEN"</string>
+    <string name="bt_not_available">Bluetooth not available</string>
+    <string name="connected_to">Connected to: </string>
+    <string name="bt_not_enabled">Bluetooth not enabled</string>
+    <string name="permission_needed">Permission needed.</string>
+</resources>
